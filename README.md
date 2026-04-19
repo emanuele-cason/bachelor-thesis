@@ -14,6 +14,11 @@
   [![Official Publication](https://img.shields.io/badge/Thesis-Padua_Research_Archive-lightgrey.svg)](https://thesis.unipd.it/handle/20.500.12608/48867)
 </div>
 
+## Available Materials
+
+- [Thesis Document (PDF)](Tesi.pdf?raw=true)
+- [Presentation (PDF)](Presentazione/Presentazione%20relazione.pdf?raw=true)
+- [Official Publication on Padua Research Archive](https://thesis.unipd.it/handle/20.500.12608/48867)
 ---
 
 ## Abstract
@@ -25,11 +30,3 @@ During the development and testing of the remotely piloted aircraft for the "Air
 ## Estratto (Italiano)
 
 Con lo sviluppo e il collaudo del velivolo a pilotaggio remoto, nell'ambito della competizione internazionale "Air Cargo Challenge", si è reso necessario ottenere dei dati di volo dall'aeromodello per consentire una valutazione delle sue prestazioni. L'approccio sperimentale per ottenere tali informazioni si è articolato in due aspetti principali: l'integrazione di un sistema di registrazione dei dati di volo e trasmissione di questi ultimi a terra (telemetria); e l'analisi dei dati raccolti, attraverso un software creato appositamente. Tale analisi ha permesso di operare un confronto tra previsioni teoriche di progetto e dati empirici, di individuare le condizioni ottimali di volo e di manovra e prevedere in linea di massima i punteggi di gara.
-
----
-
-## Available Materials
-
-- [Thesis Document (PDF)](Tesi.pdf)
-- [Presentation (PDF)](Presentazione/Presentazione%20relazione.pdf)
-- [Official Publication on Padua Research Archive](https://thesis.unipd.it/handle/20.500.12608/48867)
