@@ -16,9 +16,10 @@
 
 ## Available Materials
 
-- [Thesis Document (PDF)](Tesi.pdf?raw=true)
-- [Presentation (PDF)](Presentazione/Presentazione%20relazione.pdf?raw=true)
+- [Thesis Document (PDF)](https://raw.githubusercontent.com/emanuele-cason/bachelor-thesis/master/Tesi.pdf)
+- [Presentation (PDF)](https://raw.githubusercontent.com/emanuele-cason/bachelor-thesis/master/Presentazione/Presentazione%20relazione.pdf)
 - [Official Publication on Padua Research Archive](https://thesis.unipd.it/handle/20.500.12608/48867)
+
 ---
 
 ## Abstract
